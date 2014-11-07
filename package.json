@@ -1,0 +1,10 @@
+{
+  "name": "copay-dashboard-cli",
+  "description": "A dashboard",
+  "dependencies": {
+   "nginxparser": "chriso/nginx_parser#f9756a93bc1fbb574000f0076fbb03d561ef7fc3",
+   "commander": "*",
+   "moment":"*"
+  }
+}
+ 
